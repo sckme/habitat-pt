@@ -3,3 +3,11 @@ html, body {
     color: #fff;
     text-align: center;
 }
+
+.name {
+    margin: 30px;
+    padding: 10px;
+}
+.message {
+    text-shadow: purple 3px 4px 5px;
+}
