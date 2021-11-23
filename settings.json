@@ -1,0 +1,8 @@
+{
+  "name": "Habitat",
+  "description": "",
+  "server_urls": {
+    "one": "https://server-1.privatedns.org/"
+  },
+  "port": 3000
+}
